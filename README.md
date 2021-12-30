@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhijit Unavane</h1>
 <h3 align="center">A passionate Full Stack Developer(MERN) from India</h3>
 
-- 🌱 I’m currently learning **ReactJs Desktop Application**
+- 🌱 I’m currently building **ReactJs Applications**
 
-- 🤝 I’m looking for help with **ReactJs Desktop Application**
-
-- 💬 Ask me about **React, Express, Python**
+- 💬 Ask me about **ReactJs, Express, Python**
 
 - 📫 How to reach me **abhijit.unavane@gmail.com**
 
