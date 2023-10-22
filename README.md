@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhijit Unavane</h1>
-<h3 align="center">A passionate Full Stack Developer(MERN) from India</h3>
+<h3 align="center">A passionate android developer</h3>
 
-- 🌱 I’m currently building **ReactJs Applications**
+- 🌱 I’m currently building **ReactJs, Android and flutter Applications**
 
-- 💬 Ask me about **ReactJs, Express, Python**
+- 💬 Ask me about **ReactJs, Flutter, Express, Python**
 
 - 📫 How to reach me **abhijit.unavane@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Jk_RAi56IjDBGv9ImT3V4Ny88RFMdRNh/view?usp=drivesdk](https://drive.google.com/file/d/1Jk_RAi56IjDBGv9ImT3V4Ny88RFMdRNh/view?usp=drivesdk)
-
-
-- Check this referral link: 
-<a href="https://wazirx.com/invite/34bq3zd8" target="blank">Wazirx Cryptocurrency App refferal Link </a>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
