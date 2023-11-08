@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhijit Unavane</h1>
-<h3 align="center">A passionate android developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
-- 🌱 I’m currently building **ReactJs, Android and flutter Applications**
+- 🌱 I’m currently building **Flutter Applications**
 
-- 💬 Ask me about **ReactJs, Flutter, Express, Python**
+- 💬 Ask me about **Android, Flutter, ReactJs, Express**
 
 - 📫 How to reach me **abhijit.unavane@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Jk_RAi56IjDBGv9ImT3V4Ny88RFMdRNh/view?usp=drivesdk](https://drive.google.com/file/d/1Jk_RAi56IjDBGv9ImT3V4Ny88RFMdRNh/view?usp=drivesdk)
+- 📄 Know about my [experiences](https://docs.google.com/document/d/1TG6rzcCa5tnnFtHyn5wiHoXA5s6Q0SUEVN-KCwvFfJY/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
